@@ -12,3 +12,5 @@ Following tasks have been carried out in this:
 9. Evaluating the model on the test data.
 10. Predictions on the test set.
 11. Visualizing the predictions.
+
+Reference - Coursera (https://www.coursera.org/projects/tensorflow-beginner-basic-image-classification)
